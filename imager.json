@@ -1,9 +1,14 @@
 {
     "os_list": [
-		{
+        {
+         	{
             "name": "Boomerang OS - v1.3.1",
             "description": "A Fork of Ubuntu 20.10 with various windows skins",
             "icon": "https://tse2.mm.bing.net/th?id=OIP.XpYx2ZbXipcHQV5P6NTmXgHaHa&pid=Api&P=0&w=300&h=300",
             "url": "https://drive.google.com/u/0/uc?export=download&confirm=Lf-E&id=18ISBH4HA5jydNTDYccIm-0_lvd9belov",
             "release_date": "2020-10-03"
-     },
+                }
+            ]
+        }
+    ]
+}
