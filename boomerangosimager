@@ -1,5 +1,16 @@
 {
     "os_list": [
+        {
+            "name": "Raspberry Pi OS (32-bit)",
+            "description": "A port of Debian with the Raspberry Pi Desktop (Recommended)",
+            "icon": "https://downloads.raspberrypi.org/raspios_armhf/Raspberry_Pi_OS_(32-bit).png",
+            "url": "https://downloads.raspberrypi.org/raspios_armhf/images/raspios_armhf-2020-08-24/2020-08-20-raspios-buster-armhf.zip",
+            "extract_size": 3821010944,
+            "extract_sha256": "96e43352b522d80c5c786e0601a3e15dc1273e3407de52ada0b1ed56c172bfd5",
+            "image_download_size": 1181855929,
+            "release_date": "2020-08-20"
+        },
+		
 		{
             "name": "Boomerang OS - v1.3.1",
             "description": "A Fork of Ubuntu 20.10 with various windows skins",
