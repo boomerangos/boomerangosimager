@@ -1,8 +1,6 @@
 {
     "os_list": [
-        {
-},
-		
+        {	
 		{
             "name": "Boomerang OS - v1.3.1",
             "description": "A Fork of Ubuntu 20.10 with various windows skins",
